@@ -4,6 +4,10 @@
 
 Khana Website is designed to help real estate offices present properties online and manage their listings through a dedicated administration interface.
 
+## Interface preview
+
+![Khana website interface](./1.png)
+
 ## Project highlights
 
 - Responsive property browsing and photo galleries
